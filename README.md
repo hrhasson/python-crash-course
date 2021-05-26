@@ -1,12 +1,39 @@
 # Python for high schoolers
-A brief intro to python course based on [this undergrad-level astronomy python minicourse](https://github.com/jbchampagne/pythontutorials), as well as a series of notebooks explaining filtering with Fourier transforms
+A brief intro to python course based on [this undergrad-level astronomy python minicourse](https://github.com/jbchampagne/pythontutorials), plus a supplementary series of notebooks explaining filtering with Fourier transforms
 
-Please note that these notebooks were built to be run via Google Colaboratory, but they work just fine with jupyter notebooks. You can download these and upload them to Colab and use as intended, or open with Jupyter and just change the import statements for the files used.
+Please note that these notebooks were built to be run via Google Colaboratory, but they work just fine with jupyter notebooks. You can download these and upload them to Colab and use as intended, or open with Jupyter and just ignore the extra steps in the importing of files.
 
 ## Intro to Python course
-This directory has a 3-day introduction to python course for high-school-level students (no prior coding assumed). The course is quite condensed, and some concepts may be too high level for some high schoolers (especially Day 3). Each day has interactive questions within the "lecture," so instructors should pause and let students work these problems individually or together as you go along. The solutions to these problems are in the "solutions" directory.
+This directory has a 3-day introduction to python course for high-school-level students (no prior coding assumed). The course is quite condensed, but provides basic working understanding of handling data in python. Each day has interactive questions within the "lecture," so instructors should pause and let students work these problems individually or together as you go along. The solutions to these problems are in the "solutions" directory.
 
-Days 1 and 2 were each taught in ~90 minute interactive sessions over zoom in August 2020. Day 3 was not taught, but given to students as optional extra content. The Exercises.ipynb file has some practice problems corresponding to each day, and Exercises_with_solutions.ipynb has the solutions to those.
+2020:
+---
+Days 1 and 2 were each taught in ~90 minute interactive sessions over zoom in August 2020. Day 3 was not taught, but given to students as optional extra content.
+
+2021
+---
+All three days will be taught, likely in 2 hour sessions (possibly less for Day 3 since it's shorter).
+
+Here is a summary of the sections included
+
+### Day 1
+* Importing packages
+* Setting variables
+* Variable types
+* Python arithmetic
+* Arrays: populating, indexing, manipulation and attributes
+
+### Day 2
+* If statements
+* For loops
+* User-defined functions
+* Plotting basics
+
+### Day 3
+* Loading in files
+* What is a Gaussian?
+* Fitting a function to data
+* Interpolating data
 
 ## Filtering with Fourier transforms
 This is a mini-course for students after they have completed at least Days 1 and 2 of the Intro to Python course above. The order of the modules is the following
