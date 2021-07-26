@@ -12,7 +12,7 @@ Days 1 and 2 were each taught in ~90 minute interactive sessions over zoom in Au
 
 2021
 ---
-All three days will be taught, likely in 2 hour sessions (possibly less for Day 3 since it's shorter).
+All three days were taught in-person and synchronously virtually, each in a 2 hour session.
 
 Here is a summary of the sections included
 
@@ -33,7 +33,8 @@ Here is a summary of the sections included
 * Loading in files
 * What is a Gaussian?
 * Fitting a function to data
-* Interpolating data
+* Plotting 2D image data
+* Taking lineouts of 2D data
 
 ## Filtering with Fourier transforms
 This is a mini-course for students after they have completed at least Days 1 and 2 of the Intro to Python course above. The order of the modules is the following
