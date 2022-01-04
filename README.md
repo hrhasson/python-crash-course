@@ -1,10 +1,10 @@
-# Python for high schoolers
+# Python crash-course for beginners
 A brief intro to python course based on [this undergrad-level astronomy python minicourse](https://github.com/jbchampagne/pythontutorials), plus a supplementary series of notebooks explaining filtering with Fourier transforms
 
 Please note that these notebooks were built to be run via Google Colaboratory, but they work just fine with jupyter notebooks. You can download these and upload them to Colab and use as intended, or open with Jupyter and just ignore the extra steps in the importing of files.
 
 ## Intro to Python course
-This directory has a 3-day introduction to python course for high-school-level students (no prior coding assumed). The course is quite condensed, but provides basic working understanding of handling data in python. Each day has interactive questions within the "lecture," so instructors should pause and let students work these problems individually or together as you go along. The solutions to these problems are in the "solutions" directory.
+This directory has a 3-day introduction to python course intended for high-school-level students (no prior coding assumed). The course is quite condensed, but provides basic working understanding of handling data in python. Each day has interactive questions within the "lecture," so instructors should pause and let students work these problems individually or together as you go along. The solutions to these problems are in the "solutions" directory.
 
 2020:
 ---
@@ -30,11 +30,11 @@ Here is a summary of the sections included
 * Plotting basics
 
 ### Day 3
-* Loading in files
+* Loading in data from files
 * What is a Gaussian?
 * Fitting a function to data
 * Plotting 2D image data
-* Taking lineouts of 2D data
+* Taking 1D lineouts of 2D data
 
 ## Filtering with Fourier transforms
 This is a mini-course for students after they have completed at least Days 1 and 2 of the Intro to Python course above. The order of the modules is the following
@@ -46,3 +46,5 @@ This is a mini-course for students after they have completed at least Days 1 and
 The first module demonstrates how to load images in Google Colab and python, and how to plot 2d image data. The second module introduces the concept of Fourier transforms, and gives interactive examples of taking Fourier transforms of both 1D and 2D data. The final module shows how one can use Fourier space to remove certain signals from either 1D or 2D data.
 
 Each module has exercises at the end, but no solutions are provided. Students were encouraged to experiment with these questions as mini research projects. The end product of the filtering method on the data is part of the analysis done in [this paper](https://doi.org/10.1109/TPS.2020.3020000) I published in 2020.
+
+If you plan to use this or have any questions, let me know! I can be reached at hhasson@ur.rochester.edu.
