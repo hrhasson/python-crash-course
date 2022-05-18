@@ -36,6 +36,8 @@ Here is a summary of the sections included
 * Plotting 2D image data
 * Taking 1D lineouts of 2D data
 
+This version is probably going to be broken up into a 5-day series when it is taught again this summer.
+
 ## Filtering with Fourier transforms
 This is a mini-course for students after they have completed at least Days 1 and 2 of the Intro to Python course above. The order of the modules is the following
 
@@ -43,8 +45,10 @@ This is a mini-course for students after they have completed at least Days 1 and
 2. Fourier_transforms.ipynb
 3. Filtering_with_Fourier_transforms.ipynb
 
-The first module demonstrates how to load images in Google Colab and python, and how to plot 2d image data. The second module introduces the concept of Fourier transforms, and gives interactive examples of taking Fourier transforms of both 1D and 2D data. The final module shows how one can use Fourier space to remove certain signals from either 1D or 2D data.
+The first module demonstrates how to load images in Google Colab and python, and how to plot 2d image data. The second module introduces the concept of Fourier transforms, and gives interactive examples of taking Fourier transforms of both 1D and 2D data. The third module shows how one can use Fourier space to remove certain signals from either 1D or 2D data.
 
 Each module has exercises at the end, but no solutions are provided. Students were encouraged to experiment with these questions as mini research projects. The end product of the filtering method on the data is part of the analysis done in [this paper](https://doi.org/10.1109/TPS.2020.3020000) I published in 2020.
+
+There is also the Fourier 1-day Lesson, which is basically a compilation of all three modules with more detail. This is aimed at an undergraduate level.
 
 If you plan to use this or have any questions, let me know! I can be reached at hhasson@ur.rochester.edu.
